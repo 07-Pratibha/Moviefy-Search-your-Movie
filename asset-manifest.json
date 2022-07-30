@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Moviefy-Search-your-Movie/static/css/main.de250025.css",
+    "main.js": "/Moviefy-Search-your-Movie/static/js/main.b4c4cfd6.js",
+    "index.html": "/Moviefy-Search-your-Movie/index.html",
+    "main.de250025.css.map": "/Moviefy-Search-your-Movie/static/css/main.de250025.css.map",
+    "main.b4c4cfd6.js.map": "/Moviefy-Search-your-Movie/static/js/main.b4c4cfd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de250025.css",
+    "static/js/main.b4c4cfd6.js"
+  ]
+}
